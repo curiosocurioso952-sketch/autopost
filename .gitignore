@@ -1,0 +1,15 @@
+# Banco de dados local
+autopost.db
+
+# Miniaturas e caches
+thumbs/
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# Ambiente
+.vscode/
+.idea/

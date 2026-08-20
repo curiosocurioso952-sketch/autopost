@@ -1,0 +1,9 @@
+# Núcleo (sem dependências externas — roda direto com o Python)
+# Opcional, para ler a duração dos vídeos:
+# moviepy>=2.0
+
+# Fase 2 — conectores (instalar apenas quando for conectar cada plataforma):
+google-auth-oauthlib>=1.2
+google-auth>=2.29
+google-api-python-client>=2.130
+requests>=2.31
